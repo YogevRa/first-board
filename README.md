@@ -21,7 +21,6 @@ Designed by Yogev Raz.
 ## Documents
 
 - [Schematic (PDF)](docs/first-board.pdf)
-- [Design specification (PDF, Hebrew)](docs/board-spec.pdf)
 
 ## Repository layout
 
