@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "first-board") (type "KiCad") (uri "${KIPRJMOD}/first-board.pretty") (options "") (descr ""))
+)
